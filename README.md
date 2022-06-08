@@ -1,2 +1,2 @@
 # Linguagem_C
-Conteúdo sobre a linguagem C
+Conteúdos sobre a linguagem C
